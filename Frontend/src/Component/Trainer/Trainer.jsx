@@ -25,10 +25,3 @@ export default Trainer
 // - Workout tracking and progress visualization
 // - Membership management
 // - Responsive design for both desktop and mobile devices
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CODEMASTER-ABDULLAH-92/Gym-App.git
-git push -u origin main

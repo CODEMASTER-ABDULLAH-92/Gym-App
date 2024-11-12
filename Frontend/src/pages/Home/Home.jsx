@@ -1,4 +1,4 @@
-import Hero from '../../Component/Hero/Hero'
+import Hero from '/src/Component/Hero/Hero.jsx'
 import Join from '../../Component/Join/Join'
 import Member from '../../Component/memberShip/Member';
 import Staff from '../../Component/Staff/Staff';

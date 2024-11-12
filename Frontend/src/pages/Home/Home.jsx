@@ -1,8 +1,8 @@
 import Hero from '/src/Component/Hero/Hero.jsx'
-import Join from '../../Component/Join/Join'
-import Member from '../../Component/memberShip/Member';
-import Staff from '../../Component/Staff/Staff';
-import About from "../../Component/About/About"
+import Join from '/src/Component/Join/Join'
+import Member from '/src/Component/memberShip/Member';
+import Staff from '/src/Component/Staff/Staff';
+import About from "/src/Component/About/About"
 const Home = () => {
   return (
     <div>
